@@ -1,5 +1,4 @@
 Flask>=3.0,<4
 python-dotenv>=1.0,<2
 openai>=1.0,<2
-# Production server (Linux/Render): gunicorn>=21,<24
 gunicorn>=23,<24
